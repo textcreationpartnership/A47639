@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Sr. Ellis Leighton Kt. at the Tholsell of Dublin, April the 4th 1672</title>
+            <author>Leighton, Elisha, Sir, d. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47639</idno>
+            <idno type="STC">Wing L1025</idno>
+            <idno type="STC">ESTC R24042</idno>
+            <idno type="EEBO-CITATION">07944362</idno>
+            <idno type="OCLC">ocm 07944362</idno>
+            <idno type="VID">40613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40613)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1209:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Sr. Ellis Leighton Kt. at the Tholsell of Dublin, April the 4th 1672</title>
+                  <author>Leighton, Elisha, Sir, d. 1685.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke, printer to the King's most excellent majesty,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1672?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Politics and government --  17th century.</term>
+               <term>Ireland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40613:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>THE SPEECH OF S<hi rend="sup">r</hi> Ellis Leighton K<hi rend="sup">t.</hi> AT THE THOLSELL OF DUBLIN, <hi>April</hi> the 4th 1672.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>Benjamin Tooke,</hi> Printer to the KING's moſt Excellent Majeſty; And are to be Sold by <hi>Joſeph Wilde</hi> Bookſeller in <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:40613:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="3" facs="tcp:40613:2"/>
+            <!-- PDF PAGE 74 -->
+            <opener>
+               <salute>My <hi>LORD</hi> and Gentlemen,</salute>
+            </opener>
+            <p>IT is no difficult thing to ſpin out a long Speech, and entertain an Auditory, either with Com<g ref="char:EOLhyphen"/>plement or Common place; but it is a hard thing to ſpeak diſcreetly in an arduous and per<g ref="char:EOLhyphen"/>plexed conjuncture of Affairs, it being ſafer ma<g ref="char:EOLhyphen"/>ny times to Act, than to Diſcourſe, and men expoſe themſelves often more by what they ſay, than what they do; ſo that ſince I knew there was ſome purpoſe in the City, to deſire me to ſupply the place of their Recorder: Among the many and various conſiderations that preſented themſelves, to perſwade me to accept of it, or to decline it, when I had brought my ſelf al<g ref="char:EOLhyphen"/>moſt to a reſolution of complying with the Cities in<g ref="char:EOLhyphen"/>clination, I was driven off again by the thoughts, That it was fit to ſay ſomething upon this Occaſion, and that I could not determine what was fit to ſay. I am ſure common civility required my waiting upon you, and giving you a reſpectful Anſwer; and what I think I muſt pitch upon at laſt, is this, That no conſideration that terminates in my ſelf, could prevail upon me to meddle with a thing lyable to ſo many miſconſtructi<g ref="char:EOLhyphen"/>ons
+<pb n="4" facs="tcp:40613:3"/>
+               <!-- PDF PAGE 75 -->with thoſe that know not the ſteps of this matter, and will be ſure to meet with ſo many miſrepreſenta<g ref="char:EOLhyphen"/>tions, from th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe whoſe intereſt it is to have your pro<g ref="char:EOLhyphen"/>ceedings cryed down, and not conſidered. But ſince the City have thought ſit, for motives beſt known to themſelves, to deſire it of me, I will hope my ſer<g ref="char:EOLhyphen"/>ving of you in it for a time, may conduce to the pub<g ref="char:EOLhyphen"/>lick tranquillity; and I will ſay no more of that matter.</p>
+            <p>I ſhall onely ſerve my ſelf of this occaſion, to give you ſome Advice for your future conduct; it is that muſt juſtifie the innocency of your intentions, and crown your actings with applauſe. if I may make bold with the N<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tation of the word, He that is to you a good Recorder, will be a good Counſellor, He that will but put you in mind of what you have done, will not adviſe you ill in what you have to do; your for<g ref="char:EOLhyphen"/>mer practice is the beſt commentary upon your duty; and a diſcourſe of your duty, is the beſt Panegyrick of your practice. Corporations are the creatures of the Monarchy, and therefore they have a particular obli<g ref="char:EOLhyphen"/>gation beyond other ſubjects at large, to depend up<g ref="char:EOLhyphen"/>on the Monarchy, and to uphold it. Your Charter is to the Lord Mayor, Sheriffs and Commons, this is the creature of the Monarchy: The Table of Aldermen is the creature of the Corporation, which by an Act of its own, to eaſe the Commons of the burthen and diſturbance of frequent and numerous Aſſemblies, hath made an abſtract of the wiſeſt and wealthieſt a<g ref="char:EOLhyphen"/>mong them, to aſſiſt and adviſe the Lord Mayor, and at once to repreſent and dignifie the Commons. Theſe ought to outvy all the reſt of the Corporation, in that common duty of depending upon the King. They ought to have no politick Maximes of their own, no headineſs, no reſtineſs, but leaving all affairs of State
+<pb n="5" facs="tcp:40613:3"/>
+               <!-- PDF PAGE 75 -->of the firſt magnitude, to the piety and prudence of the Prince; they ought nimbly and readily to obey all the motions of his Hand, in thoſe various changes he ſhall have occaſion to manage them to.</p>
+            <p>And hath ever City done this more, than this City? They have alwayes been eaſie and obſequious to any Go<g ref="char:EOLhyphen"/>vernour the Crown hath ſent them, they have alwayes adhered to its intereſt with a perfect obedience, And in the late unhappy times, when Rebellion overflowed all, like an unreſiſtible inundation, their coming under that fatal deluge, had the greateſt face and appearance of Obedience in it, of any other part of the King's Do<g ref="char:EOLhyphen"/>minions, They prudently complyed with the neceſſi<g ref="char:EOLhyphen"/>ty of the Times, by the direction of thoſe His Majeſty had placed at the Helm; and when the happy hour came, that Loyalty began to peep out again, it muſt be acknowledged, as it hath nobly been, by ſome of the prime Actors in that glorious Work, That if the Com<g ref="char:EOLhyphen"/>mons of this City had not ſheltered and aſſiſted them, they might have been cruſhed and ruined in their firſt attempt. This I have heard ſome of them ſay, for the glory of the Commons, and out of great compaſ<g ref="char:EOLhyphen"/>ſion to them, in the beginning of theſe late agitations. The character, humour and paſſion of this City, ſeems to be Loyalty, and it cannot be any wayes diminiſhed or allayed in the heighth of its Tincture, except un<g ref="char:EOLhyphen"/>fortunately ſome few of the chief do affect and obtain an Oligarchy, or overſwaying power, and linking themſelves to factious and partial dependencies, ſhould by the communication and defluxion of the ſame humour upon the Commons, breed in them an unnatural ſtiffneſs, contrary to that gentle and ſupple temper they have alwayes hitherto ſhewed towards the leaſt intimation of the King's pleaſure.</p>
+            <p>
+               <pb n="6" facs="tcp:40613:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 76 -->
+It ſhall alwayes be remembred for the honour of this preſent Lord Mayor and the City, how chearfull and how ready an Obedience they gave to the King's late Proclamation, and the Act of Council (though it hath not met with the like alacrity and reſpect in all other parts of the Kingdom) And this is moſt particu<g ref="char:EOLhyphen"/>larly remarkable, That though the Lord Mayor be noted and famous, as one that hath alwayes been for the King, hath fought for Him, and ſuffered for Him, and is highly principled for the Government of the Church eſtabliſhed by Law, and that ſome of the Com<g ref="char:EOLhyphen"/>mons are diſſenters from it; yet in all theſe agitations, thoſe diſſenters have choſe rather to ſtick to the Lord Mayor, than to thoſe that have more affinity and in<g ref="char:EOLhyphen"/>clination to their Opinions: and whereas in many o<g ref="char:EOLhyphen"/>ther places, thoſe diſſenters are not ſo well ſatisfied with the general indulgence His Majeſty hath given to tender conſciences, In this City, the rumor of that fa<g ref="char:EOLhyphen"/>vour hath by thoſe that diſſent, been recieved with all imaginable joy and thankfulneſs, and an entire re<g ref="char:EOLhyphen"/>ſignation to the King's Will in all civil affairs. So that in a word, This City may be an example to the great<g ref="char:EOLhyphen"/>eſt Cities of the world, of a moſt ſubmiſſive and im<g ref="char:EOLhyphen"/>plicite Loyalty, and cannot receive a better example from any than from it ſelf.</p>
+            <p>One thing I would adviſe, which I have heard pro<g ref="char:EOLhyphen"/>feſſed from ſome of the moſt eminent among you, That how ill ſoever you may take it to be inſnared by the cunning, or inſlaved to the paſſion of any among your ſelves; yet if any body could finde out a ſhape of Government, or deviſe any Rules that would make you more ſubject to the Will and perſonal Power of the Prince, you would petition the King for that Mo<g ref="char:EOLhyphen"/>del, and for thoſe Rules. It is a ſhort, but a ſafe coun<g ref="char:EOLhyphen"/>ſel,
+<pb n="7" facs="tcp:40613:4"/>
+               <!-- PDF PAGE 76 -->Do as you have done, perſevere, and you will pre<g ref="char:EOLhyphen"/>vail; prevail, over all that malice can deviſe, calumny inſinuate, or obloquy can ſpread.</p>
+            <p>It remains that I put the Commons in mind to bear all due reſpect to the Table of Aldermen, and that no bad Opinion they may have of any they imagine had a deſign of bearing too hard upon them, ſhould alienate them from that eſteem compliance, and confidence they ought to have for thoſe, who are therefore ſet up above the Commons, that under their conduct and vigilance, the Commons might have more leiſure to follow their Callings, and ſo enjoy both pro<g ref="char:EOLhyphen"/>fit and eaſe.</p>
+            <p>I have but one word more to add, that I pretend in any further ſervice I ſhall be required to do you, no o<g ref="char:EOLhyphen"/>ther advantage, but the honour of ſerving you; and that you may have time to caſt about and conſult for your further conveniency, and I ſhall think that I have a great Reward (whoever cenſure me) if you do but forgive my failings, and accept of my good will.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
